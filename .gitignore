@@ -1,0 +1,20 @@
+# Google API credentials — NEVER commit these
+credentials.json
+token.json
+
+# Runtime data — local to your machine
+config.json
+students.json
+processed_files.json
+automation.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
